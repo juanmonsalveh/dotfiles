@@ -1,0 +1,50 @@
+tap "homebrew/bundle"
+tap "buo/cask-upgrade"
+tap "homebrew/cask-fonts"
+
+# install binaries
+brew "curl"
+brew "wget"
+
+brew "bash"
+brew "bash-completion"
+brew "zsh"
+brew "zsh-completions"
+brew "coreutils"
+brew "moreutils"
+
+brew "git"
+brew "tree"
+brew "jq"
+brew "htop"
+brew "ctop"
+brew "tldr"
+brew "watch"
+
+# install Apps
+cask "google-chrome"
+cask "microsoft-edge"
+
+cask "iterm2"
+cask "postman"
+cask "visual-studio-code"
+cask "intellij-idea"
+cask "zed"
+cask "raycast"
+
+cask "notion"
+cask "obsidian"
+
+cask "spotify"
+cask "slack"
+cask "whatsapp"
+cask "telegram"
+
+# Docker
+cask "docker"
+brew "docker-completion"
+brew "docker-machine"
+
+# K8S command line
+brew "kubectx"
+brew "asdf"

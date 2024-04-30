@@ -1,0 +1,6 @@
+$DOTFILES/zsh/.zshrc=$HOME/.zshrc
+$DOTFILES/zsh/.gitignore=$HOME/.gitignore
+$DOTFILES/zsh/.aliases=$HOME/.dotfiles/.aliases
+$DOTFILES/zsh/functions/.directory_f=$HOME/.dotfiles/functions/.directory_f
+$DOTFILES/zsh/functions/.log_f=$HOME/.dotfiles/functions/.log_f
+$DOTFILES/zsh/functions/.link_file_f=$HOME/.dotfiles/functions/.link_file_f
